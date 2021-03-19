@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "eea46fea-c605-406a-a43e-c7c4732ac2c0",
+    "name": "Fish_Pain",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
