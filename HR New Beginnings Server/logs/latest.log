@@ -1,0 +1,60 @@
+[22:25:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:25:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:25:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:35] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:25:35] [Server thread/INFO]: Loading properties
+[22:25:35] [Server thread/INFO]: Default game type: SURVIVAL
+[22:25:35] [Server thread/INFO]: Generating keypair
+[22:25:35] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at wd$2.run(SourceFile:110) [minecraft_server.1.15.2.jar:?]
+[22:25:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:25:36] [Server thread/INFO]: Using default channel type
+[22:25:36] [Server thread/INFO]: Preparing level "world"
+[22:25:36] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[22:25:36] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:25:37] [Server thread/INFO]: Loaded 6 recipes
+[22:25:37] [Server thread/INFO]: Loaded 825 advancements
+[22:25:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:25:40] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:25:40] [Server-Worker-3/INFO]: Preparing spawn area: 1%
+[22:25:41] [Server-Worker-7/INFO]: Preparing spawn area: 6%
+[22:25:41] [Server-Worker-6/INFO]: Preparing spawn area: 13%
+[22:25:42] [Server-Worker-1/INFO]: Preparing spawn area: 13%
+[22:25:42] [Server-Worker-6/INFO]: Preparing spawn area: 20%
+[22:25:43] [Server-Worker-2/INFO]: Preparing spawn area: 29%
+[22:25:43] [Server-Worker-4/INFO]: Preparing spawn area: 39%
+[22:25:44] [Server-Worker-7/INFO]: Preparing spawn area: 44%
+[22:25:44] [Server-Worker-5/INFO]: Preparing spawn area: 53%
+[22:25:45] [Server-Worker-1/INFO]: Preparing spawn area: 62%
+[22:25:45] [Server-Worker-7/INFO]: Preparing spawn area: 68%
+[22:25:46] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:25:46] [Server-Worker-4/INFO]: Preparing spawn area: 87%
+[22:25:47] [Server-Worker-2/INFO]: Preparing spawn area: 96%
+[22:25:47] [Server thread/INFO]: Time elapsed: 7204 ms
+[22:25:47] [Server thread/INFO]: Done (10.799s)! For help, type "help"
+[22:25:48] [Server thread/INFO]: Stopping server
+[22:25:48] [Server thread/INFO]: Saving players
+[22:25:48] [Server thread/INFO]: Saving worlds
+[22:25:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

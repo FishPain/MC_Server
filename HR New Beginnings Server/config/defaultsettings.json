@@ -1,0 +1,11 @@
+{
+  "version": "${file.jarVersion}",
+  "prevVersion": "1.0.4",
+  "initPopup": false,
+  "exportMode": false,
+  "generatedBy": "\u003cdefault\u003e",
+  "activeConfigs": [],
+  "hashes": {},
+  "mainProfile": "Default",
+  "initially_created": "16.03.2020 16:48:52"
+}
