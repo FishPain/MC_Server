@@ -1,0 +1,1 @@
+java -Xmx4G -Xms4G -jar forge-1.15.2-31.2.45.jar nogui
