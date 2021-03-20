@@ -1,0 +1,17 @@
+{
+  "version": "${file.jarVersion}",
+  "prevVersion": "1.16.3",
+  "initPopup": false,
+  "exportMode": false,
+  "generatedBy": "b136da07-ceb5-4227-a78d-8ad76e89090d",
+  "activeConfigs": [
+    "essentials-client.toml",
+    "essentials-server.toml",
+    "fml.toml",
+    "lightoverlay.properties",
+    "waystones-server.toml"
+  ],
+  "hashes": {},
+  "mainProfile": "Default",
+  "initially_created": "05.10.2020 13:13:23"
+}

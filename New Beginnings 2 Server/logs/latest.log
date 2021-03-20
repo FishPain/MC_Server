@@ -1,0 +1,633 @@
+[20Mar2021 23:07:06.093] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.32, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge]
+[20Mar2021 23:07:06.095] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.6+85+master.325de55 starting: java version 1.8.0_281 by Oracle Corporation
+[20Mar2021 23:07:06.554] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[20Mar2021 23:07:06.576] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/yuhao/OneDrive/Documents/GitHub/MC_Server/New%20Beginnings%202%20Server/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[20Mar2021 23:07:07.505] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [snownee.fruits.mixin.Connector]
+[20Mar2021 23:07:07.506] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.miningdimension.mixin.MixinConnector]
+[20Mar2021 23:07:07.508] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[20Mar2021 23:07:07.509] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [thelm.jaopca.mixins.JAOPCAMixinConnector]
+[20Mar2021 23:07:07.512] [main/INFO] [Fruit Trees/]: Invoking Mixin Connector
+[20Mar2021 23:07:07.521] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[20Mar2021 23:07:12.524] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[20Mar2021 23:07:12.536] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[20Mar2021 23:07:12.536] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[20Mar2021 23:07:12.552] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mining_dimension` for name `teleporter`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:12.667] [modloading-worker-12/INFO] [strawgolem/]: Initializing strawgolem
+[20Mar2021 23:07:12.690] [modloading-worker-13/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.2.4...
+[20Mar2021 23:07:12.693] [modloading-worker-9/WARN] [defaultsettings/]: DefaultSettings is a client-side mod only! It won't do anything on servers!
+[20Mar2021 23:07:12.724] [modloading-worker-13/INFO] [Dungeon Crawl/]: net.minecraft.world.gen.feature.StructureFeature@3dd62c48
+[20Mar2021 23:07:12.724] [modloading-worker-13/INFO] [Dungeon Crawl/]: dungeoncrawl:dungeon
+[20Mar2021 23:07:12.741] [modloading-worker-9/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 35.1.32, for MC 1.16.4 with MCP 20201102.104115
+[20Mar2021 23:07:12.741] [modloading-worker-9/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v35.1.32 Initialized
+[20Mar2021 23:07:12.750] [modloading-worker-2/INFO] [Kiwi/Init]: Processing 7 KiwiModule annotations
+[20Mar2021 23:07:12.753] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for waddles:adelie_penguin
+[20Mar2021 23:07:12.755] [modloading-worker-15/ERROR] [packmenu/]: Running on a dedicated server, disabling mod.
+[20Mar2021 23:07:12.761] [modloading-worker-13/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[20Mar2021 23:07:12.769] [modloading-worker-14/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[20Mar2021 23:07:12.769] [modloading-worker-14/INFO] [PluginManager/]: Scanning classes for titanium
+[20Mar2021 23:07:12.824] [modloading-worker-14/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[20Mar2021 23:07:12.825] [modloading-worker-14/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[20Mar2021 23:07:12.825] [modloading-worker-14/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[20Mar2021 23:07:12.915] [modloading-worker-14/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[20Mar2021 23:07:13.027] [modloading-worker-13/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:13.199] [modloading-worker-13/ERROR] [net.minecraft.util.Util/]: No data fixer registered for trident_entity
+[20Mar2021 23:07:13.409] [modloading-worker-3/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:69]: # schematics: 5
+[20Mar2021 23:07:13.462] [modloading-worker-8/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[20Mar2021 23:07:13.463] [modloading-worker-8/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[20Mar2021 23:07:13.474] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:water_arrow
+[20Mar2021 23:07:13.478] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:box_turtle
+[20Mar2021 23:07:13.494] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:arrau_turtle
+[20Mar2021 23:07:13.496] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:starshell_turtle
+[20Mar2021 23:07:13.496] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:oak_fish_mount
+[20Mar2021 23:07:13.496] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:spruce_fish_mount
+[20Mar2021 23:07:13.496] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:birch_fish_mount
+[20Mar2021 23:07:13.497] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:jungle_fish_mount
+[20Mar2021 23:07:13.497] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:acacia_fish_mount
+[20Mar2021 23:07:13.497] [modloading-worker-1/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:dark_oak_fish_mount
+[20Mar2021 23:07:13.544] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[20Mar2021 23:07:13.550] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.focamacho.mysticaladaptations.lib.ModCorePlugin
+[20Mar2021 23:07:13.609] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[20Mar2021 23:07:14.797] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for wrapped
+[20Mar2021 23:07:14.808] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for pickarang
+[20Mar2021 23:07:14.823] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for toretoise
+[20Mar2021 23:07:14.849] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for chest_passenger
+[20Mar2021 23:07:14.889] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for glass_frame
+[20Mar2021 23:07:14.890] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for colored_frame
+[20Mar2021 23:07:15.028] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for totem
+[20Mar2021 23:07:15.063] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for skull_pike
+[20Mar2021 23:07:15.266] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for gravisand
+[20Mar2021 23:07:15.321] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for frog
+[20Mar2021 23:07:15.334] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for crab
+[20Mar2021 23:07:15.380] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for stoneling
+[20Mar2021 23:07:15.386] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for foxhound
+[20Mar2021 23:07:15.419] [modloading-worker-15/ERROR] [net.minecraft.util.Util/]: No data fixer registered for leash_knot_fake
+[20Mar2021 23:07:15.625] [modloading-worker-6/ERROR] [net.minecraft.util.Util/]: No data fixer registered for cfm:seat
+[20Mar2021 23:07:15.855] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 1209 unique defined tags
+[20Mar2021 23:07:15.913] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 8072 unique defined recipes
+[20Mar2021 23:07:15.969] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 3912 unique defined loot tables
+[20Mar2021 23:07:16.000] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 2090 unique defined advancements
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesDustModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesCompatModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.thermalexpansion.ThermalExpansionNonIngotModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.thermalexpansion.ThermalExpansionModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.072] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.thermalexpansion.ThermalExpansionCompatModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebNonIngotModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsNonIngotModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsCompatModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.create.CreateNonIngotModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.create.CreateModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.086] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.create.CreateCompatModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.087] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.appliedenergistics2.AppliedEnergistics2Module has missing mod dependencies, skipping
+[20Mar2021 23:07:16.087] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.appliedenergistics2.AppliedEnergistics2CompatModule has missing mod dependencies, skipping
+[20Mar2021 23:07:16.147] [main/INFO] [thelm.jaopca.materials.MaterialHandler/]: Added 57 materials
+[20Mar2021 23:07:16.336] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.biotite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.337] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.biotite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.compressed_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.compressed_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.fluorite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.fluorite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.hellforged`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.hellforged`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.lithium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.lithium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.nether_brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.nether_brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.339] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.netherite_scrap`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.340] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.netherite_scrap`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.340] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.obsidian`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.340] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.obsidian`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.340] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.prismarine`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.340] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.prismarine`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.refined_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.refined_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.salt`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.salt`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.saltpeter`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.saltpeter`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.341] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.sulfur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.342] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.sulfur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.342] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.wood`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.342] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.wood`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.342] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.343] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.344] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.346] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.347] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.osmium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.352] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.352] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.352] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.353] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.353] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.353] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.353] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.353] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:16.470] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for snowrealmagic.snow
+[20Mar2021 23:07:16.483] [main/INFO] [Kiwi/Init]: Module [kiwi:contributors] initialized
+[20Mar2021 23:07:16.491] [main/INFO] [Kiwi/Init]: Module [fruittrees:core] initialized
+[20Mar2021 23:07:16.491] [main/INFO] [Kiwi/Init]:     item: 8
+[20Mar2021 23:07:16.492] [main/INFO] [Kiwi/Init]:     block: 37
+[20Mar2021 23:07:16.492] [main/INFO] [Kiwi/Init]:     block_entity_type: 1
+[20Mar2021 23:07:16.492] [main/INFO] [Kiwi/Init]:     worldgen/tree_decorator_type: 1
+[20Mar2021 23:07:16.492] [main/INFO] [Kiwi/Init]:     worldgen/foliage_placer_type: 1
+[20Mar2021 23:07:16.493] [main/INFO] [Kiwi/Init]: Module [fruittrees:cherry] initialized
+[20Mar2021 23:07:16.493] [main/INFO] [Kiwi/Init]:     block: 21
+[20Mar2021 23:07:16.493] [main/INFO] [Kiwi/Init]:     particle_type: 2
+[20Mar2021 23:07:16.493] [main/INFO] [Kiwi/Init]:     item: 2
+[20Mar2021 23:07:16.494] [main/INFO] [Kiwi/Init]:     sound_event: 2
+[20Mar2021 23:07:16.494] [main/INFO] [Kiwi/Init]: Module [fruittrees:hybridization] initialized
+[20Mar2021 23:07:16.494] [main/INFO] [Kiwi/Init]:     recipe_serializer: 1
+[20Mar2021 23:07:16.495] [main/INFO] [Kiwi/Init]: Module [snowrealmagic:core] initialized
+[20Mar2021 23:07:16.495] [main/INFO] [Kiwi/Init]:     block: 8
+[20Mar2021 23:07:16.495] [main/INFO] [Kiwi/Init]:     item: 1
+[20Mar2021 23:07:16.495] [main/INFO] [Kiwi/Init]:     block_entity_type: 2
+[20Mar2021 23:07:16.496] [main/INFO] [Kiwi/Init]:     entity_type: 1
+[20Mar2021 23:07:16.496] [main/INFO] [Kiwi/Init]: Module [snowrealmagic:world] initialized
+[20Mar2021 23:07:16.496] [main/INFO] [Kiwi/Init]:     worldgen/feature: 1
+[20Mar2021 23:07:16.496] [main/INFO] [Kiwi/Init]: Module [kiwi:data] initialized
+[20Mar2021 23:07:16.496] [main/INFO] [Kiwi/Init]:     recipe_serializer: 3
+[20Mar2021 23:07:21.134] [main/INFO] [mcwwindows/]: Blocks registered.
+[20Mar2021 23:07:21.373] [main/INFO] [mcwdoors/]: Blocks registered.
+[20Mar2021 23:07:21.428] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:21.550] [main/INFO] [mcwbridges/]: Blocks registered.
+[20Mar2021 23:07:21.636] [main/INFO] [mcwtrpdoors/]: Blocks registered.
+[20Mar2021 23:07:21.877] [main/INFO] [mcwwindows/]: Items registered.
+[20Mar2021 23:07:21.886] [main/INFO] [io.github.strikerrocker.vt.VanillaTweaks/]: Registering Items
+[20Mar2021 23:07:21.889] [main/INFO] [mcwdoors/]: Items registered.
+[20Mar2021 23:07:21.890] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:21.905] [main/INFO] [mcwbridges/]: Items registered.
+[20Mar2021 23:07:21.908] [main/INFO] [mcwtrpdoors/]: Items registered.
+[20Mar2021 23:07:22.092] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 137 ms
+[20Mar2021 23:07:22.165] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/arrow_protect.json, path: /data/bloodmagic/living_armor/arrow_protect.json
+[20Mar2021 23:07:22.172] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fall_protect.json, path: /data/bloodmagic/living_armor/fall_protect.json
+[20Mar2021 23:07:22.173] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/physical_protect.json, path: /data/bloodmagic/living_armor/physical_protect.json
+[20Mar2021 23:07:22.174] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/jump.json, path: /data/bloodmagic/living_armor/jump.json
+[20Mar2021 23:07:22.174] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/health.json, path: /data/bloodmagic/living_armor/health.json
+[20Mar2021 23:07:22.175] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/sprint_attack.json, path: /data/bloodmagic/living_armor/sprint_attack.json
+[20Mar2021 23:07:22.176] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/self_sacrifice.json, path: /data/bloodmagic/living_armor/self_sacrifice.json
+[20Mar2021 23:07:22.177] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/speed.json, path: /data/bloodmagic/living_armor/speed.json
+[20Mar2021 23:07:22.177] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/poison_resist.json, path: /data/bloodmagic/living_armor/poison_resist.json
+[20Mar2021 23:07:22.178] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fire_resist.json, path: /data/bloodmagic/living_armor/fire_resist.json
+[20Mar2021 23:07:22.178] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/digging.json, path: /data/bloodmagic/living_armor/digging.json
+[20Mar2021 23:07:22.179] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:183]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/knockback_resist.json, path: /data/bloodmagic/living_armor/knockback_resist.json
+[20Mar2021 23:07:22.238] [main/INFO] [wayoftime.bloodmagic.BloodMagic/]: Attempting to register Tile Entities
+[20Mar2021 23:07:22.287] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for flame
+[20Mar2021 23:07:22.287] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for robit
+[20Mar2021 23:07:22.289] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for strawgolem
+[20Mar2021 23:07:22.304] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for cannon_skull
+[20Mar2021 23:07:22.304] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for vanillatweaks:dynamite
+[20Mar2021 23:07:22.305] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for soulsnare
+[20Mar2021 23:07:22.305] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for bloodlight
+[20Mar2021 23:07:22.305] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for silentgear:arrow
+[20Mar2021 23:07:22.305] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for silentgear:slingshot_projectile
+[20Mar2021 23:07:22.306] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for gravestone:player_ghost
+[20Mar2021 23:07:22.307] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for naturesaura:mover_minecart
+[20Mar2021 23:07:22.308] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for naturesaura:effect_inhibitor
+[20Mar2021 23:07:22.308] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for naturesaura:light_projectile
+[20Mar2021 23:07:22.309] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for naturesaura:structure_finder
+[20Mar2021 23:07:22.315] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for honey_slime
+[20Mar2021 23:07:22.549] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `freeze_top_layer`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[20Mar2021 23:07:22.610] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\yuhao\OneDrive\Documents\GitHub\MC_Server\New Beginnings 2 Server\config\aquaculture-common.toml is not correct. Correcting
+[20Mar2021 23:07:22.611] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.box_turtle.exclude was corrected from [] to []
+[20Mar2021 23:07:22.611] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.arrau_turtle.exclude was corrected from [] to []
+[20Mar2021 23:07:22.611] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.starshell_turtle.exclude was corrected from [] to []
+[20Mar2021 23:07:22.616] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\yuhao\OneDrive\Documents\GitHub\MC_Server\New Beginnings 2 Server\config\the_bumblezone-mod_compatibility.toml is not correct. Correcting
+[20Mar2021 23:07:22.627] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\yuhao\OneDrive\Documents\GitHub\MC_Server\New Beginnings 2 Server\config\quark-common.toml is not correct. Correcting
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.marble.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.limestone.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.jasper.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.slate.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.voidstone.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.628] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.new_stone_types.myalite.oregen.Max Height was corrected from 256 to 256
+[20Mar2021 23:07:22.636] [modloading-worker-7/INFO] [strawgolem/]: Strawgolem common setup
+[20Mar2021 23:07:22.636] [modloading-worker-8/INFO] [mcwwindows/]: Setup method registered
+[20Mar2021 23:07:22.638] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
+[20Mar2021 23:07:22.639] [modloading-worker-6/INFO] [mcwdoors/]: Setup method registered
+[20Mar2021 23:07:22.643] [modloading-worker-2/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[20Mar2021 23:07:22.652] [modloading-worker-6/INFO] [mcwbridges/]: Setup method registered
+[20Mar2021 23:07:22.656] [modloading-worker-11/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[20Mar2021 23:07:22.657] [modloading-worker-13/INFO] [mcwtrpdoors/]: Setup method registered
+[20Mar2021 23:07:22.660] [modloading-worker-10/WARN] [morpheus/]: New day handler for dimension ResourceKey[minecraft:dimension / minecraft:overworld] has been replaced
+[20Mar2021 23:07:22.664] [modloading-worker-12/INFO] [io.github.strikerrocker.vt.VanillaTweaks/]: Setup Complete
+[20Mar2021 23:07:22.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mining_helmet] Starting version check at http://changelogs.moddinglegacy.com/miners-helmet.json
+[20Mar2021 23:07:22.685] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[20Mar2021 23:07:22.685] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[20Mar2021 23:07:22.685] [modloading-worker-4/INFO] [Mekanism/]: Version 10.0.18 initializing...
+[20Mar2021 23:07:22.685] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[20Mar2021 23:07:22.685] [modloading-worker-1/INFO] [Nature's Aura/]: Loading compat module for mod patchouli
+[20Mar2021 23:07:22.685] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[20Mar2021 23:07:22.685] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[20Mar2021 23:07:22.686] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[20Mar2021 23:07:22.686] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[20Mar2021 23:07:22.686] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[20Mar2021 23:07:22.686] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[20Mar2021 23:07:22.686] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[20Mar2021 23:07:22.687] [modloading-worker-14/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[20Mar2021 23:07:22.691] [modloading-worker-12/INFO] [quark/]: Loading Module Chain Linkage
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Chains Connect Blocks
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Chute
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Color Slime
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Ender Watcher
+[20Mar2021 23:07:22.692] [modloading-worker-12/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[20Mar2021 23:07:22.694] [modloading-worker-12/INFO] [quark/]: Loading Module Feeding Trough
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Gravisand
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Iron Rod
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Metal Buttons
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Obsidian Plate
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[20Mar2021 23:07:22.695] [modloading-worker-12/INFO] [quark/]: Loading Module Redstone Circuit
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Weather Sensor
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Bamboo Mat
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Burn Vines
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Cobblestone Bricks
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Compressed Blocks
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Duskbound Blocks
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Framed Glass
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Gold Bars
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Grate
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Iron Plates
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Item Frames
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Leaf Carpet
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Lit Lamp
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module Midori
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module More Brick Types
+[20Mar2021 23:07:22.696] [modloading-worker-12/INFO] [quark/]: Loading Module More Potted Plants
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module More Stone Variants
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Paper Decor
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Quilted Wool
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Rope
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Shallow Dirt
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Shingles
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Soul Sandstone
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Stained Planks
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Sturdy Stone
+[20Mar2021 23:07:22.697] [modloading-worker-12/INFO] [quark/]: Loading Module Tallow And Candles
+[20Mar2021 23:07:22.698] [modloading-worker-12/INFO] [quark/]: Loading Module Thatch
+[20Mar2021 23:07:22.698] [modloading-worker-12/INFO] [quark/]: Loading Module Tie Leads To Fences
+[20Mar2021 23:07:22.698] [modloading-worker-12/INFO] [quark/]: Loading Module Turf
+[20Mar2021 23:07:22.698] [modloading-worker-12/INFO] [quark/]: Loading Module Variant Bookshelves
+[20Mar2021 23:07:22.698] [modloading-worker-12/INFO] [quark/]: Loading Module Variant Chests
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Variant Ladders
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Vertical Planks
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Vertical Slabs
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Wooden Posts
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Chests In Boats
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Easy Transfering
+[20Mar2021 23:07:22.700] [modloading-worker-12/INFO] [quark/]: Loading Module Hotbar Changer
+[20Mar2021 23:07:22.701] [modloading-worker-12/INFO] [quark/]: Loading Module Inventory Sorting
+[20Mar2021 23:07:22.701] [modloading-worker-12/INFO] [quark/]: Loading Module Item Sharing
+[20Mar2021 23:07:22.701] [modloading-worker-12/INFO] [quark/]: Loading Module Right Click Armor
+[20Mar2021 23:07:22.701] [modloading-worker-12/INFO] [quark/]: Loading Module Shulker Box Right Click
+[20Mar2021 23:07:22.701] [modloading-worker-12/INFO] [quark/]: Loading Module Ancient Tomes
+[20Mar2021 23:07:22.702] [modloading-worker-12/INFO] [quark/]: Loading Module Bottled Cloud
+[20Mar2021 23:07:22.702] [modloading-worker-12/INFO] [quark/]: Loading Module Camera
+[20Mar2021 23:07:22.702] [modloading-worker-12/INFO] [quark/]: Loading Module Color Runes
+[20Mar2021 23:07:22.703] [modloading-worker-12/INFO] [quark/]: Loading Module Pathfinder Maps
+[20Mar2021 23:07:22.703] [modloading-worker-12/INFO] [quark/]: Loading Module Pickarang
+[20Mar2021 23:07:22.703] [modloading-worker-12/INFO] [quark/]: Loading Module Seed Pouch
+[20Mar2021 23:07:22.704] [modloading-worker-12/INFO] [quark/]: Loading Module Slime In A Bucket
+[20Mar2021 23:07:22.704] [modloading-worker-12/INFO] [quark/]: Loading Module Trowel
+[20Mar2021 23:07:22.704] [modloading-worker-12/INFO] [quark/]: Loading Module Skull Pikes
+[20Mar2021 23:07:22.705] [modloading-worker-12/INFO] [quark/]: Loading Module Armed Armor Stands
+[20Mar2021 23:07:22.705] [modloading-worker-12/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[20Mar2021 23:07:22.705] [modloading-worker-12/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[20Mar2021 23:07:22.706] [modloading-worker-12/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[20Mar2021 23:07:22.706] [modloading-worker-12/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[20Mar2021 23:07:22.706] [modloading-worker-12/INFO] [quark/]: Loading Module Dirt To Path
+[20Mar2021 23:07:22.706] [modloading-worker-12/INFO] [quark/]: Loading Module Double Door Opening
+[20Mar2021 23:07:22.707] [modloading-worker-12/INFO] [quark/]: Loading Module Dragon Scales
+[20Mar2021 23:07:22.707] [modloading-worker-12/INFO] [quark/]: Loading Module Emotes
+[20Mar2021 23:07:22.707] [modloading-worker-12/INFO] [quark/]: Loading Module Enhanced Ladders
+[20Mar2021 23:07:22.707] [modloading-worker-12/INFO] [quark/]: Loading Module Glass Shard
+[20Mar2021 23:07:22.707] [modloading-worker-12/INFO] [quark/]: Loading Module Hoe Harvesting
+[20Mar2021 23:07:22.708] [modloading-worker-12/INFO] [quark/]: Loading Module Improved Sleeping
+[20Mar2021 23:07:22.708] [modloading-worker-12/INFO] [quark/]: Loading Module Infinity Bucket
+[20Mar2021 23:07:22.708] [modloading-worker-12/INFO] [quark/]: Loading Module Lock Rotation
+[20Mar2021 23:07:22.709] [modloading-worker-12/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[20Mar2021 23:07:22.711] [modloading-worker-12/INFO] [quark/]: Loading Module Pat The Dogs
+[20Mar2021 23:07:22.712] [modloading-worker-12/INFO] [quark/]: Loading Module Poison Potato Usage
+[20Mar2021 23:07:22.712] [modloading-worker-12/INFO] [quark/]: Loading Module Reacharound Placing
+[20Mar2021 23:07:22.713] [modloading-worker-12/INFO] [quark/]: Loading Module Replace Scaffolding
+[20Mar2021 23:07:22.713] [modloading-worker-12/INFO] [quark/]: Loading Module Sign Editing
+[20Mar2021 23:07:22.714] [modloading-worker-12/INFO] [quark/]: Loading Module Simple Harvest
+[20Mar2021 23:07:22.714] [modloading-worker-12/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[20Mar2021 23:07:22.714] [modloading-worker-12/INFO] [quark/]: Loading Module Springy Slime
+[20Mar2021 23:07:22.714] [modloading-worker-12/INFO] [quark/]: Loading Module Utility Recipes
+[20Mar2021 23:07:22.715] [modloading-worker-12/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[20Mar2021 23:07:22.716] [modloading-worker-12/INFO] [quark/]: Loading Module Big Dungeon
+[20Mar2021 23:07:22.717] [modloading-worker-12/INFO] [quark/]: Loading Module Big Stone Clusters
+[20Mar2021 23:07:22.717] [modloading-worker-12/INFO] [quark/]: Loading Module Biotite
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Blossom Trees
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Cave Roots
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Chorus Vegetation
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Crevices
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Fairy Rings
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Mega Caves
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Monster Box
+[20Mar2021 23:07:22.718] [modloading-worker-12/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[20Mar2021 23:07:22.719] [modloading-worker-12/INFO] [quark/]: Loading Module New Stone Types
+[20Mar2021 23:07:22.719] [modloading-worker-12/INFO] [quark/]: Loading Module Realistic World Gen
+[20Mar2021 23:07:22.719] [modloading-worker-12/INFO] [quark/]: Loading Module Speleothems
+[20Mar2021 23:07:22.719] [modloading-worker-12/INFO] [quark/]: Loading Module Spiral Spires
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Underground Clay
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Lush Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Slime Underground Biome
+[20Mar2021 23:07:22.720] [modloading-worker-12/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[20Mar2021 23:07:22.721] [modloading-worker-12/INFO] [quark/]: Loading Module Crabs
+[20Mar2021 23:07:22.721] [modloading-worker-12/INFO] [quark/]: Loading Module Foxhound
+[20Mar2021 23:07:22.722] [modloading-worker-12/INFO] [quark/]: Loading Module Frogs
+[20Mar2021 23:07:22.722] [modloading-worker-12/INFO] [quark/]: Loading Module Stonelings
+[20Mar2021 23:07:22.722] [modloading-worker-12/INFO] [quark/]: Loading Module Toretoise
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Auto Walk Keybind
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Back Button Keybind
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Chest Searching
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Greener Grass
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Improved Mount Hud
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Improved Tooltips
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Usage Ticker
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Variant Animal Textures
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Backpack
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Magnets
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Matrix Enchanting
+[20Mar2021 23:07:22.723] [modloading-worker-12/INFO] [quark/]: Loading Module Pipes
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Totem Of Holding
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Adjustable Chat
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Custom Underground Biome
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Game Nerfs
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Narrator Readout
+[20Mar2021 23:07:22.724] [modloading-worker-12/INFO] [quark/]: Loading Module Overlay Shader
+[20Mar2021 23:07:22.731] [modloading-worker-4/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[20Mar2021 23:07:22.731] [modloading-worker-4/INFO] [Mekanism/]: Loading complete.
+[20Mar2021 23:07:22.731] [modloading-worker-4/INFO] [Mekanism/]: Mod loaded.
+[20Mar2021 23:07:22.734] [modloading-worker-1/INFO] [Nature's Aura/]: -- Nature's Aura Fake Player Information --
+[20Mar2021 23:07:22.735] [modloading-worker-1/INFO] [Nature's Aura/]: Name: [Minecraft]
+[20Mar2021 23:07:22.735] [modloading-worker-1/INFO] [Nature's Aura/]: UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77
+[20Mar2021 23:07:22.735] [modloading-worker-1/INFO] [Nature's Aura/]: -------------------------------------------
+[20Mar2021 23:07:23.081] [modloading-worker-9/INFO] [CraftTweaker/]: CraftTweaker has loaded successfully!
+[20Mar2021 23:07:23.090] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[20Mar2021 23:07:24.749] [main/WARN] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Mod 'quark' took 1.557 s to run a deferred task.
+[20Mar2021 23:07:24.751] [modloading-worker-5/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20Mar2021 23:07:24.752] [modloading-worker-3/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20Mar2021 23:07:24.753] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20Mar2021 23:07:24.753] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20Mar2021 23:07:24.759] [modloading-worker-6/INFO] [net.blay09.mods.craftingtweaks.CraftingTweaks/]: refinedstorage has registered com.refinedmods.refinedstorage.container.GridContainer for CraftingTweaks
+[20Mar2021 23:07:24.773] [modloading-worker-14/INFO] [Waila/]: Registered plugin at mekanism.common.integration.lookingat.hwyla.MekanismHwylaPlugin
+[20Mar2021 23:07:24.774] [modloading-worker-14/INFO] [Waila/]: Registered plugin at net.silentchaos512.mechanisms.compat.hwyla.SMechanismsHwylaPlugin
+[20Mar2021 23:07:24.775] [modloading-worker-14/INFO] [Waila/]: Registered plugin at snownee.fruits.plugin.hwyla.HwylaPlugin
+[20Mar2021 23:07:24.780] [modloading-worker-14/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[20Mar2021 23:07:24.786] [modloading-worker-14/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
+[20Mar2021 23:07:24.789] [modloading-worker-14/INFO] [Waila/]: Registered plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[20Mar2021 23:07:24.791] [modloading-worker-14/INFO] [Waila/]: Registered plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[20Mar2021 23:07:24.793] [modloading-worker-14/INFO] [Waila/]: Registered plugin at com.blakebr0.pickletweaks.feature.FeatureWailaPlugin
+[20Mar2021 23:07:26.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mining_helmet] Found status: BETA Current: 2.0.0 Target: null
+[20Mar2021 23:07:26.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedpipes] Starting version check at https://refinedmods.com/refined-pipes/update.json
+[20Mar2021 23:07:27.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedpipes] Found status: UP_TO_DATE Current: 0.5 Target: null
+[20Mar2021 23:07:27.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.4-forge/update.json
+[20Mar2021 23:07:27.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Found status: OUTDATED Current: 2.8.1 Target: 2.10.0
+[20Mar2021 23:07:27.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[20Mar2021 23:07:27.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 1.0.2 Target: 1.0.3
+[20Mar2021 23:07:27.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silents_mechanisms] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silents-Mechanisms/1.16.x/update.json
+[20Mar2021 23:07:27.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silents_mechanisms] Found status: BETA Current: 0.8.8+73 Target: null
+[20Mar2021 23:07:27.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [namepain] Starting version check at https://raw.githubusercontent.com/naqaden/updateJSON/mods/NamePain.json
+[20Mar2021 23:07:27.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [namepain] Found status: UP_TO_DATE Current: 1.3.1 Target: null
+[20Mar2021 23:07:27.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanillatweaks] Starting version check at https://raw.githubusercontent.com/StrikerRockers-Mods/VanillaTweaks/1.16/version.json
+[20Mar2021 23:07:27.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanillatweaks] Found status: BETA_OUTDATED Current: 1.16.4-1.5.37 Target: 1.16.4-1.5.38
+[20Mar2021 23:07:27.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultsettings] Starting version check at https://gist.githubusercontent.com/PT400C/be22046792a7859688f655f1a5f83975/raw/
+[20Mar2021 23:07:29.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultsettings] Found status: UP_TO_DATE Current: 2.2.0 Target: null
+[20Mar2021 23:07:29.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [randompatches] Starting version check at https://raw.githubusercontent.com/TheRandomLabs/RandomPatches/misc/versions.json
+[20Mar2021 23:07:29.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [randompatches] Found status: OUTDATED Current: 2.1.5-forge Target: 2.4.4-forge
+[20Mar2021 23:07:29.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[20Mar2021 23:07:29.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: OUTDATED Current: 1.0.1 Target: 1.0.2
+[20Mar2021 23:07:29.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Starting version check at https://updates.blamejared.com/get?n=JEITweaker&gv=1.16.4
+[20Mar2021 23:07:31.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Found status: BETA_OUTDATED Current: 1.0.1.5 Target: 1.0.1.7
+[20Mar2021 23:07:31.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.16.4
+[20Mar2021 23:07:32.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 7.0.0.63 Target: 7.1.0.84
+[20Mar2021 23:07:32.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20Mar2021 23:07:34.240] [main/INFO] [Dungeon Crawl/]: Loading C:\Users\yuhao\OneDrive\Documents\GitHub\MC_Server\New Beginnings 2 Server\config\DungeonCrawl\config.json
+[20Mar2021 23:07:34.243] [main/INFO] [Dungeon Crawl/]: Loading C:\Users\yuhao\OneDrive\Documents\GitHub\MC_Server\New Beginnings 2 Server\config\DungeonCrawl\loot\specialItemTags.json
+[20Mar2021 23:07:34.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 35.1.32 Target: 35.1.37
+[20Mar2021 23:07:34.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Starting version check at https://refinedmods.com/refined-storage/update.json
+[20Mar2021 23:07:35.386] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Mar2021 23:07:35.705] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20Mar2021 23:07:35.706] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Mar2021 23:07:35.707] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Mar2021 23:07:35.707] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20Mar2021 23:07:35.708] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Mar2021 23:07:35.710] [main/INFO] [Dungeon Crawl/]: Adding datapack reload listener
+[20Mar2021 23:07:35.715] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, inventorysorter-1.16.1-18.1.0.jar, Cucumber-1.16.4-4.1.5.jar, NetherPortalFix_1.16.3-7.2.1.jar, mining-helmet-1.16.4-2.0.0.jar, refinedpipes-0.5.jar, jei-1.16.4-7.6.1.65.jar, metalbarrels-3.3a.jar, FallingTree-Forge-1.16.4-2.8.1.jar, Mekanism-1.16.4-10.0.18.445.jar, mcw-windows-1.0.2-mc1.16.4.jar, SilentMechanisms-1.16.3-0.8.8+73.jar, strawgolem-1.16-1.9.jar, essentials-1.16.4-2.10.0.jar, Waystones_1.16.3-7.3.1.jar, XaerosWorldMap_1.11.6_Forge_1.16.4.jar, Placebo-1.16.3-4.3.3.jar, comforts-forge-1.16.4-4.0.1.0.jar, NaturesCompass-1.16.4-1.8.6.jar, FruitTrees-1.16.3-2.2.0.jar, NamePain-1.3.1 Forge-1.16.x.jar, ftb-gui-library-1604.1.1.26.jar, VanillaTweaks-1.16.4-1.5.37.jar, DungeonCrawl-1.16.3-2.2.4.jar, DefaultSettings-1.16.x-2.2.0.jar, Wither-Skeleton-Tweaks-1.16.3-5.2.1.jar, snowundertrees-1.16.4-v1.1.3.jar, randompatches-2.1.5-forge.jar, nhacampfire_1.16.4-3.0.jar, ProgressiveBosses-2.2.0-mc1.16.x.jar, mcw-doors-1.0.1fix-mc1.16.4.jar, Morpheus-1.16.4-4.2.68.jar, MekanismGenerators-1.16.4-10.0.18.445.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, SnowRealMagic-1.16.3-2.2.2.jar, Kiwi-1.16.3-3.4.1.jar, JEITweaker-1.16.4-1.0.1.5.jar, CraftTweaker-1.16.4-7.0.0.63.jar, forge-1.16.4-35.1.32-universal.jar, Waddles-1.16.4-0.8.11.jar, BloodMagic-1.16.3-3.0.3-8.jar, refinedstorage-1.9.11.jar, ironchest-1.16.4-11.2.10.jar, PackMenu-1.16.3-2.3.0.jar, CraftingTweaks_1.16.3-12.2.0.jar, mcw-bridges-1.0.4-mc1.16.4.jar, industrial-foregoing-1.16.4-3.2.7-7d95990.jar, swingthroughgrass-1.16.4-1.5.3.jar, AmbientSounds_v3.1.4_mc1.16.4.jar, MouseTweaks-2.13-mc1.16.2.jar, titanium-1.16.4-3.2.4.jar, SilentLib-1.16.3-4.9.0+63.jar, morevanillalib-1.16.2-1.2.14.jar, BiomesOPlenty-1.16.4-13.0.0.427-universal.jar, valhelsia_structures-16.0.5.jar, CreativeCore_v2.0.10_mc1.16.4.jar, mcw-trapdors-1.0.0-mc1.16.4.jar, mining_dimension-1.16.4-1.0.2.jar, SilentGear-1.16.3-2.4.11+200.jar, simplefarming-1.16.4-1.3.5.jar, simplybackpacks-1.16.3-1.4.13.jar, MysticalAdaptations-1.16.4-1.0.jar, MysticalAgriculture-1.16.4-4.1.4.jar, MysticalAgradditions-1.16.4-4.1.3.jar, Patchouli-1.16.4-48.jar, Xaeros_Minimap_20.30.1_Forge_1.16.4.jar, JAOPCA-1.16.4-3.4.0.2.jar, gravestone-1.16.4-1.0.8.jar, collective-1.16.4-1.53.jar, polymorph-forge-1.16.4-0.22.jar, AutoRegLib-1.6-47.jar, Quark-r2.4-289.jar, StorageDrawers-1.16.3-8.2.1.jar, vanillahammers-1.16.2-2.1.3.jar, elevatorid-1.16.4-1.7.8.jar, PickleTweaks-1.16.4-5.1.4.jar, NaturesAura-33.2.jar, furniture-7.0.0-pre19-1.16.3.jar, architectury-1.2.69-forge.jar, AppleSkin-mc1.16.2-forge-1.0.14.jar, AI-Improvements-1.16.2-0.3.0.jar, cloth-config-forge-4.1.3.jar, Aquaculture-1.16.4-2.1.11.jar, the_bumblezone-1.16.4-2.2.8.jar, refinedstorageaddons-0.7.2.jar, SolarGeneration-1.16.4-2.3.0.jar, FastLeafDecay-v25.jar, inmemory:jaopca
+[20Mar2021 23:07:36.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[20Mar2021 23:07:36.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[20Mar2021 23:07:36.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: OUTDATED Current: 1.0.4 Target: 1.0.5
+[20Mar2021 23:07:36.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[20Mar2021 23:07:36.496] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ruby as it's serializer returned null
+[20Mar2021 23:07:36.497] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as it's serializer returned null
+[20Mar2021 23:07:36.509] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/constantan_ingot as it's serializer returned null
+[20Mar2021 23:07:36.510] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as it's serializer returned null
+[20Mar2021 23:07:36.511] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
+[20Mar2021 23:07:36.514] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as it's serializer returned null
+[20Mar2021 23:07:36.525] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
+[20Mar2021 23:07:36.530] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as it's serializer returned null
+[20Mar2021 23:07:36.530] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as it's serializer returned null
+[20Mar2021 23:07:36.540] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
+[20Mar2021 23:07:36.541] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as it's serializer returned null
+[20Mar2021 23:07:36.570] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
+[20Mar2021 23:07:36.571] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as it's serializer returned null
+[20Mar2021 23:07:36.580] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cinnabar as it's serializer returned null
+[20Mar2021 23:07:36.585] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as it's serializer returned null
+[20Mar2021 23:07:36.594] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as it's serializer returned null
+[20Mar2021 23:07:36.594] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as it's serializer returned null
+[20Mar2021 23:07:36.596] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/niter as it's serializer returned null
+[20Mar2021 23:07:36.606] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sapphire as it's serializer returned null
+[20Mar2021 23:07:36.624] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as it's serializer returned null
+[20Mar2021 23:07:36.627] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as it's serializer returned null
+[20Mar2021 23:07:36.630] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
+[20Mar2021 23:07:36.636] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as it's serializer returned null
+[20Mar2021 23:07:36.641] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
+[20Mar2021 23:07:36.642] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as it's serializer returned null
+[20Mar2021 23:07:36.645] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cobalt as it's serializer returned null
+[20Mar2021 23:07:36.652] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sulfur as it's serializer returned null
+[20Mar2021 23:07:36.659] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
+[20Mar2021 23:07:36.660] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as it's serializer returned null
+[20Mar2021 23:07:36.669] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as it's serializer returned null
+[20Mar2021 23:07:36.671] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 58 recipes
+[20Mar2021 23:07:36.757] [Worker-Main-10/INFO] [thelm.jaopca.data.DataInjector/]: Injected 168 recipes, 7463 recipes total
+[20Mar2021 23:07:37.017] [Worker-Main-10/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
+[20Mar2021 23:07:37.098] [Worker-Main-10/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
+[20Mar2021 23:07:37.160] [Worker-Main-10/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
+[20Mar2021 23:07:37.192] [Worker-Main-10/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
+[20Mar2021 23:07:37.496] [Worker-Main-10/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_other' into 'minecraft:chests/bastion_other'
+[20Mar2021 23:07:37.512] [Worker-Main-10/INFO] [placebo/]: Registered 0 additional loot tables.
+[20Mar2021 23:07:37.573] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2090 advancements
+[20Mar2021 23:07:37.576] [Worker-Main-10/INFO] [placebo/]: Registered 3 additional recipes.
+[20Mar2021 23:07:37.577] [Worker-Main-10/INFO] [Dungeon Crawl/]: Loading data...
+[20Mar2021 23:07:37.783] [Worker-Main-10/INFO] [Dungeon Crawl/]: Finished data loading.
+[20Mar2021 23:07:37.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mousetweaks] Found status: BETA Current: 2.13 Target: null
+[20Mar2021 23:07:37.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
+[20Mar2021 23:07:37.820] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[20Mar2021 23:07:37.824] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[20Mar2021 23:07:37.826] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[20Mar2021 23:07:37.827] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[20Mar2021 23:07:37.828] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[20Mar2021 23:07:37.830] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[20Mar2021 23:07:37.831] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[20Mar2021 23:07:37.832] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
+[20Mar2021 23:07:37.834] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[20Mar2021 23:07:37.836] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[20Mar2021 23:07:37.837] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[20Mar2021 23:07:37.838] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[20Mar2021 23:07:37.839] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[20Mar2021 23:07:37.841] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[20Mar2021 23:07:37.842] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[20Mar2021 23:07:37.843] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[20Mar2021 23:07:37.845] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[20Mar2021 23:07:37.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.9.0+63 Target: null
+[20Mar2021 23:07:37.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillalib] Starting version check at https://raw.githubusercontent.com/MelanX/mod-updatechecker-files/master/morevanillalib.json
+[20Mar2021 23:07:37.847] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[20Mar2021 23:07:37.848] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[20Mar2021 23:07:37.849] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[20Mar2021 23:07:37.850] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[20Mar2021 23:07:37.851] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[20Mar2021 23:07:37.862] [Worker-Main-10/INFO] [Silent Gear/TraitManager]: Registered 60 traits
+[20Mar2021 23:07:37.893] [Worker-Main-10/INFO] [Silent Gear/PartManager]: Reloading part files
+[20Mar2021 23:07:37.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillalib] Found status: BETA_OUTDATED Current: 1.2.14 Target: 1.3.9
+[20Mar2021 23:07:37.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[20Mar2021 23:07:37.902] [Worker-Main-10/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:compound_part'
+[20Mar2021 23:07:37.902] [Worker-Main-10/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:misc_upgrade'
+[20Mar2021 23:07:37.915] [Worker-Main-10/INFO] [Silent Gear/PartManager]: Registered 43 parts
+[20Mar2021 23:07:37.930] [Worker-Main-10/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[20Mar2021 23:07:37.934] [Worker-Main-10/INFO] [Silent Gear/MaterialManager]: Registered serializer 'silentgear:standard'
+[20Mar2021 23:07:37.946] [Worker-Main-10/INFO] [Silent Gear/MaterialManager]: Skipping loading material silentgear:titanium as its conditions were not met
+[20Mar2021 23:07:37.949] [Worker-Main-10/INFO] [STDOUT/]: [com.blamejared.crafttweaker.CraftTweaker:giveFeedback:249]: CraftTweaker reload starting!
+[20Mar2021 23:07:37.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: OUTDATED Current: 1.0.0 Target: 1.0.1
+[20Mar2021 23:07:37.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mining_dimension] Starting version check at https://maxhenkel.de/update/mining_dimension.json
+[20Mar2021 23:07:37.991] [Worker-Main-10/INFO] [STDOUT/]: [com.blamejared.crafttweaker.CraftTweaker:giveFeedback:249]: CraftTweaker reload complete!
+[20Mar2021 23:07:40.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mining_dimension] Found status: OUTDATED Current: 1.16.4-1.0.2 Target: 1.16.4-1.0.3
+[20Mar2021 23:07:40.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.16.x/update.json
+[20Mar2021 23:07:40.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: BETA Current: 2.4.11+200 Target: null
+[20Mar2021 23:07:40.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[20Mar2021 23:07:41.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.16.4-1.0.8 Target: 1.16.4-1.0.9
+[20Mar2021 23:07:41.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanillahammers] Starting version check at https://raw.githubusercontent.com/MelanX/mod-updatechecker-files/master/vanillahammers.json
+[20Mar2021 23:07:41.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanillahammers] Found status: BETA_OUTDATED Current: 2.1.3 Target: 2.2.0
+[20Mar2021 23:07:41.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cfm/update.json
+[20Mar2021 23:07:41.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre19 Target: null
+[20Mar2021 23:07:41.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorageaddons] Starting version check at https://refinedmods.com/refined-storage-addons/update.json
+[20Mar2021 23:07:42.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorageaddons] Found status: BETA Current: 0.7.2 Target: null
+[20Mar2021 23:07:42.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solargeneration] Starting version check at https://raw.githubusercontent.com/Edivad99/mod-version-controll/master/solargeneration_update.json
+[20Mar2021 23:07:42.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solargeneration] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[20Mar2021 23:07:44.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.4
+[20Mar2021 23:07:44.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Mar2021 23:07:44.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Mar2021 23:07:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Mar2021 23:07:44.697] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:89) [?:?]
+[20Mar2021 23:07:44.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Mar2021 23:07:44.754] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[20Mar2021 23:07:45.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\the_bumblezone-block_mechanics.toml is not correct. Correcting
+[20Mar2021 23:07:45.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\the_bumblezone-bee_aggression.toml is not correct. Correcting
+[20Mar2021 23:07:45.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\the_bumblezone-dimension.toml is not correct. Correcting
+[20Mar2021 23:07:45.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\the_bumblezone-dungeons.toml is not correct. Correcting
+[20Mar2021 23:07:45.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Mar2021 23:07:45.231] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:overworld
+[20Mar2021 23:07:45.235] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_nether
+[20Mar2021 23:07:45.244] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_end
+[20Mar2021 23:07:45.245] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension mining_dimension:mining
+[20Mar2021 23:07:45.246] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension the_bumblezone:the_bumblezone
+[20Mar2021 23:07:45.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Mar2021 23:07:45.823] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[20Mar2021 23:07:45.858] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[20Mar2021 23:07:47.200] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[20Mar2021 23:07:47.202] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[20Mar2021 23:07:47.397] [Worker-Main-16/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[20Mar2021 23:07:47.979] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[20Mar2021 23:07:48.367] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[20Mar2021 23:07:48.855] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
+[20Mar2021 23:07:49.361] [Worker-Main-16/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[20Mar2021 23:07:49.861] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[20Mar2021 23:07:49.971] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4617 ms
+[20Mar2021 23:07:49.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.870s)! For help, type "help"
+[20Mar2021 23:07:49.991] [Server thread/INFO] [strawgolem/]: Strawgolem: Server Starting
+[20Mar2021 23:07:49.997] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 60
+[20Mar2021 23:07:49.997] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 43
+[20Mar2021 23:07:49.998] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 40
+[20Mar2021 23:07:49.998] [Server thread/INFO] [Silent Gear/PartManager]: - Simple/Legacy: 3
+[20Mar2021 23:07:49.998] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 112
+[20Mar2021 23:07:49.998] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 112
+[20Mar2021 23:08:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Mar2021 23:08:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Mar2021 23:08:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Mar2021 23:08:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Mar2021 23:08:05.837] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Mar2021 23:08:05.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Mar2021 23:08:05.838] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Mar2021 23:08:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Mar2021 23:08:05.839] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Mar2021 23:08:05.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mining_dimension:mining
+[20Mar2021 23:08:05.839] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[20Mar2021 23:08:05.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[20Mar2021 23:08:05.840] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20Mar2021 23:08:05.870] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Mar2021 23:08:05.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Mar2021 23:08:05.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Mar2021 23:08:05.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[20Mar2021 23:08:05.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
