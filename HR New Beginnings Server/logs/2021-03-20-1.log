@@ -1,0 +1,30 @@
+[20Mar2021 22:45:33.294] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.2.45, --fml.mcpVersion, 20200515.085601, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
+[20Mar2021 22:45:33.296] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.2+70+master.2845bb9 starting: java version 1.8.0_281 by Oracle Corporation
+[20Mar2021 22:45:33.790] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[20Mar2021 22:45:33.814] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/yuhao/OneDrive/Documents/GitHub/MC_Server/HR%20New%20Beginnings%20Server/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[20Mar2021 22:45:34.519] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:99 token recognition error at: ';'
+[20Mar2021 22:45:35.140] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [snownee.fruits.mixin.Connector]
+[20Mar2021 22:45:35.142] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.performant.coremod.mixin.Connector]
+[20Mar2021 22:45:35.143] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [me.jellysquid.mods.phosphor.mixin.PhosphorMixinConnector]
+[20Mar2021 22:45:35.143] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [snownee.snow.mixin.Connector]
+[20Mar2021 22:45:35.146] [main/INFO] [Fruit Trees/]: Invoking Mixin Connector
+[20Mar2021 22:45:35.151] [main/INFO] [Kiwi/]: Invoking Mixin Connector
+[20Mar2021 22:45:35.152] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[20Mar2021 22:45:35.168] [main/INFO] [com.performant.coremod.Performant/]: Performant configs loaded
+[20Mar2021 22:45:35.207] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/biome/BiomeColors (java.lang.ClassNotFoundException: null)
+[20Mar2021 22:45:35.207] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.biome.BiomeColors was not found midnight.mixins.json:BiomeColorsMixin
+[20Mar2021 22:45:35.209] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/util/ClientRecipeBook (java.lang.ClassNotFoundException: null)
+[20Mar2021 22:45:35.209] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.util.ClientRecipeBook was not found midnight.mixins.json:ClientRecipeBookMixin
+[20Mar2021 22:45:35.364] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER
+[20Mar2021 22:45:35.364] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LightTexture (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER)
+[20Mar2021 22:45:35.364] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LightTexture was not found midnight.mixins.json:LightTextureMixin
+[20Mar2021 22:45:35.385] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER
+[20Mar2021 22:45:35.385] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/LivingRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER)
+[20Mar2021 22:45:35.386] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.LivingRenderer was not found midnight.mixins.json:LivingRendererMixin
+[20Mar2021 22:45:35.429] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/audio/SoundSource (java.lang.ClassNotFoundException: null)
+[20Mar2021 22:45:35.429] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.audio.SoundSource was not found midnight.mixins.json:SoundSourceMixin
+[20Mar2021 22:45:35.575] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.world.ServerWorldMixin as config disables it.
+[20Mar2021 22:45:35.704] [main/WARN] [mixin/]: @Mixin target net/minecraft/world/server/ChunkManager$EntityTracker is public in performant.mixins.json:world.chunk.ChunkManagerEntityTrackMixin and should be specified in value
+[20Mar2021 22:45:35.772] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/EntityRenderer for invalid dist DEDICATED_SERVER
+[20Mar2021 22:45:35.772] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/EntityRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/EntityRenderer for invalid dist DEDICATED_SERVER)
+[20Mar2021 22:45:35.772] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.EntityRenderer was not found performant.mixins.json:client.EntityRendererMixin
