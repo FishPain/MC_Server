@@ -1,8 +1,0 @@
-[22:46:08.449][COMMON_SETUP][SERVER][INFO] Started loading Scripts for Loader 'setupCommon'!
-[22:46:08.990][COMMON_SETUP][SERVER][INFO] Finished loading Scripts!
-[22:46:12.611][DONE][SERVER][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[22:46:12.647][DONE][SERVER][INFO] Loading recipefix.zs
-[22:46:12.669][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:block_charcoal>"
-[22:46:12.729][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:vanillatweaks:charcoalblock>"
-[22:46:12.757][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:morevanillalib:obsidian_shard>"
-[22:46:12.781][DONE][SERVER][INFO] Finished loading Scripts!
